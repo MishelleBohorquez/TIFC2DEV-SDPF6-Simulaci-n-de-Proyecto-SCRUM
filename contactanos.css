@@ -5,6 +5,7 @@
 }
 
 body{
+    /* aqui se usan dos fuentes, la primera como opcion principal y la segunda como la emergencia si no la encuentra */
     font-family:'Poppins',sans-serif;
     background:#f8f9fb;
     color:#1f2937;
